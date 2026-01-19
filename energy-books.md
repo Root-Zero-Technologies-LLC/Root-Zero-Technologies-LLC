@@ -5,6 +5,8 @@ permalink: /energy-books/
 description: Books that support Root Zero’s mission — off-grid energy, field engineering, and sustainable prototyping.
 ---
 
+![Energy Books Banner](/assets/images/Banner_3_Energy.png)
+
 ## 📚 Books for Innovators, Builders & Off-Grid Thinkers
 
 This page features books we believe every off-grid energy developer and ethical builder should read.  
