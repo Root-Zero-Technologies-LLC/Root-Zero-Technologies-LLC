@@ -84,6 +84,7 @@ All builders or funders are asked to agree to our non-shelving, non-abuse terms.
 If you're a qualified engineer or prototyping lab ready to test, contact us directly through our GoFundMe page:
 
 [🔗 https://www.gofundme.com/u/root-zero-technologies](https://www.gofundme.com/u/root-zero-technologies)
+
 [📄 Download: Partner Licensing Agreement (PDF)](/assets/Root_Zero_Partner_Agreement.pdf)
 
 Together, we can build the future now — without waiting for permission.
