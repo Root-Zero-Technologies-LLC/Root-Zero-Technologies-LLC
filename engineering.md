@@ -89,10 +89,3 @@ If you're a qualified engineer or prototyping lab ready to test, contact us dire
 Together, we can build the future now — without waiting for permission.
 
 ---
-
-<section class="image-gallery">
-  <h2>Visual Overview</h2>
-  <img src="/assets/images/Bloom_Cascade__Grid_Topologies.png" alt="Bloom Grid Topology" width="100%">
-  <img src="/assets/images/Bloom_Zero_Residential_Engine.png" alt="Residential Bloom Engine" width="100%">
-  <p>All infographics are downloadable and part of the press kit.</p>
-</section>
