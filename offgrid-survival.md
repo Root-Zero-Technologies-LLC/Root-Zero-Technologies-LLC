@@ -5,6 +5,8 @@ permalink: /offgrid-survival/
 description: Off-grid survival and emergency gear recommended by Root Zero Technologies for energy independence and field resilience.
 ---
 
+![Off-Grid Banner](/assets/images/Banner_2_OffGrid.png)
+
 ## 🔋 Off-Grid & Emergency Kits
 
 This collection is curated for engineers, homesteaders, and resilience builders preparing for power loss, grid collapse, or field prototyping.
