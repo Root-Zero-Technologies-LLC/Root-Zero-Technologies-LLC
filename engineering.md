@@ -24,6 +24,19 @@ Each Bloom Engine unit (Residential Cascade variant) can produce:
 
 ---
 
+## 🔧 Featured Engineering Tools
+
+Looking to build, test, or enhance your own prototype workbench? These trusted tools are used by off-grid builders and electronics engineers worldwide:
+
+- **Digital Oscilloscope** – [Rigol DS1054Z](https://www.amazon.com/dp/B012UAT2I6?tag=rootzerotechnologies)
+- **Bench Power Supply** – [EVicke 30V 10A](https://www.amazon.com/dp/B07M7ZF8SZ?tag=rootzerotechnologies)
+- **Multimeter** – [AstroAI Digital Multimeter](https://www.amazon.com/dp/B01ISAMUA6?tag=rootzerotechnologies)
+- **Soldering Kit** – [Hakko FX888D Station](https://www.amazon.com/dp/B00ANZRT4M?tag=rootzerotechnologies)
+
+[See All Tools →](/recommended-tools)
+
+---
+
 ## 📁 Download Engineering Packet
 
 Everything needed to understand and evaluate the system is included in this introductory packet.
