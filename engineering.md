@@ -76,6 +76,7 @@ All builders or funders are asked to agree to our non-shelving, non-abuse terms.
 - [🌍 Bloom Engine Global Forecast Report (PDF)](https://root-zero-technologies.com/assets/Bloom_Engine_Global_Forecast.pdf)
 - [🚗 Transport Variant Forecast (PDF)](https://root-zero-technologies.com/assets/Bloom_Zero_Transport_Engine_and_Interface_System_-_Global_Forecast_Report.pdf)
 - [🏠 Residential Engineering Design (PDF)](https://root-zero-technologies.com/assets/Bloom_Engines_for_Residences.pdf)
+- [📄 Download: Partner Licensing Agreement (PDF)](/assets/Root_Zero_Partner_Agreement.pdf)
 
 ---
 
@@ -84,8 +85,6 @@ All builders or funders are asked to agree to our non-shelving, non-abuse terms.
 If you're a qualified engineer or prototyping lab ready to test, contact us directly through our GoFundMe page:
 
 [🔗 https://www.gofundme.com/u/root-zero-technologies](https://www.gofundme.com/u/root-zero-technologies)
-
-[📄 Download: Partner Licensing Agreement (PDF)](/assets/Root_Zero_Partner_Agreement.pdf)
 
 Together, we can build the future now — without waiting for permission.
 
