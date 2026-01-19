@@ -103,6 +103,8 @@ Together, we can build the future now — without waiting for permission.
 
 ---
 
+## 👷‍♂️ Practical Engineering Resources
+
 <section class="featured-tools">
   <h2>Featured Engineering Tools</h2>
   <p>
