@@ -46,6 +46,18 @@ Earlier internal documents referenced smaller modular cores producing <strong>7�
 </section>
 
 
+<section class="featured-tools">
+<h2>Featured Tools & Kits</h2>
+<p>Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.</p>
+<ul>
+<li><a href="/recommended-tools#essential-prototyping-tools">🔧 Prototyping Tools</a></li>
+<li><a href="/recommended-tools#off-grid-living-essentials">🌞 Off-Grid Living Kits</a></li>
+<li><a href="/recommended-tools#books--knowledge-resources">📚 Energy Education Books</a></li>
+</ul>
+<p><a href="/recommended-tools" class="button">Explore Recommended Tools</a></p>
+</section>
+
+
 <section class="navigation">
 <h2>Explore</h2>
 <ul>
