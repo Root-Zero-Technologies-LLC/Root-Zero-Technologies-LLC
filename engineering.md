@@ -102,3 +102,43 @@ If you're a qualified engineer or prototyping lab ready to test, contact us dire
 Together, we can build the future now — without waiting for permission.
 
 ---
+
+<section class="featured-tools">
+  <h2>Featured Engineering Tools</h2>
+  <p>
+    These are tools we actively recommend for electronics prototyping, off-grid experimentation, 
+    and resilient engineering workflows. Supporting links help fund Root Zero Technologies at no extra cost.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Rigol DS1054Z Digital Oscilloscope</strong> — signal analysis and waveform diagnostics  
+      <br>
+      <a href="https://www.amazon.com/dp/B012UAT2I6?tag=rootzerotechnologies" target="_blank">
+        View on Amazon
+      </a>
+    </li>
+
+    <li>
+      <strong>EVICKE 30V 10A Bench Power Supply</strong> — stable adjustable lab power  
+      <br>
+      <a href="https://www.amazon.com/dp/B07M7ZF8SZ?tag=rootzerotechnologies" target="_blank">
+        View on Amazon
+      </a>
+    </li>
+
+    <li>
+      <strong>AstroAI Precision Multimeter</strong> — voltage, current, resistance testing  
+      <br>
+      <a href="https://www.amazon.com/dp/B01ISAMUA6?tag=rootzerotechnologies" target="_blank">
+        View on Amazon
+      </a>
+    </li>
+  </ul>
+
+  <p style="font-size:0.9em;">
+    <em>Affiliate disclosure: As an Amazon Associate we earn from qualifying purchases.</em>
+  </p>
+</section>
+
+---
