@@ -30,4 +30,12 @@ Read the full launch press release [here](https://www.prlog.org/13122246-root-ze
 More posts coming soon.
 This file goes in a folder named blog. GitHub will treat this as a page at /blog/.
 
+---
 
+## 🧭 Coming Soon
+
+- 🔧 Behind the Bloom Engine: How Resonance Replaces Fuel  
+- 🌍 Why We Chose Open Licensing — and What It Means  
+- 📈 Energy Economics: Forecasting the Bloom Disruption  
+
+Stay tuned for more updates as Root Zero grows.
