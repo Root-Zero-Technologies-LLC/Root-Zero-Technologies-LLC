@@ -1,0 +1,7 @@
+title: Root Zero Technologies
+description: "Clean, fuel-free energy systems for the world"
+baseurl: "" 
+url: "https://root-zero-technologies.com"
+theme: minima
+plugins:
+  - jekyll-feed
