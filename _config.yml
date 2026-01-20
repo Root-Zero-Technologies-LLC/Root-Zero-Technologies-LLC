@@ -5,5 +5,4 @@ url: "https://root-zero-technologies.com"
 theme: minima
 plugins:
   - jekyll-feed
-css: /assets/css/custom.css
  
