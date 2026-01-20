@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Off-Grid & Emergency Kits
 permalink: /offgrid-survival/
 description: Off-grid survival and emergency gear recommended by Root Zero Technologies for energy independence and field resilience.
