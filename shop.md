@@ -15,6 +15,7 @@ Welcome! These recommended products work well for prototyping, off-grid experime
 *Affiliate Disclosure:* As an Amazon Associate we earn from *qualifying* purchases.
 
 ---
+*Affiliated Product Lines for Engineering, Off-Grid, Energy, and Emergency Services:*
 | ![](/assets/images/Products_1.png)
 
 ### 🛠️ Engineering Tools
