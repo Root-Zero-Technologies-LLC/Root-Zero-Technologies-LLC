@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Donate
 permalink: /donate/
 description: Support the Root Zero Technologies Bloom Engine launch campaign.
