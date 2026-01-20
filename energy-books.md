@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Energy & Clean Tech Books
 permalink: /energy-books/
 description: Books that support Root Zero’s mission — off-grid energy, field engineering, and sustainable prototyping.
