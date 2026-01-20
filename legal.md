@@ -4,4 +4,29 @@ title: Legal & Copyright
 permalink: /legal/
 ---
 
-{% include_relative legal/index.md %}
+# Legal Information
+
+Root Zero Technologies LLC asserts all intellectual property protections for the Bloom Engine family, associated diagrams, forecasts, written documents, and blueprint systems.
+
+## 📄 Patent & IP Status
+
+- All systems disclosed are **provisionally patented** as of 2025–2026.
+- Additional filings are planned for full global protection.
+- Intellectual property filings are in the name of **Root Zero Technologies LLC** and **Adam Lee Pellegrino**.
+
+## 🔐 Legal Notices
+
+- Public release of all major materials occurred January 18, 2026
+- All downloads are timestamped and posted as public proof-of-disclosure
+- Unauthorized private filings based on these documents will be invalidated by timeline and authorship trail
+
+## 📜 License Compliance
+
+- Usage requires ethical agreement
+- Resale, military use, suppression, or IP tampering voids licensing and triggers legal action
+
+For legal questions or verification, [contact us directly](/contact/).
+
+📄 **Partner Licensing Agreement:**  
+[Download PDF](/assets/Root_Zero_Partner_Agreement.pdf)
+
