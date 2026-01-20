@@ -46,10 +46,6 @@ Root Zero Technologies invites engineers, prototypers, and hands-on builders to 
 
 Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
 
-### Featured Tools & Kits
-
-Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
-
 🔧 [Prototyping Tools](/recommended-tools#essential-prototyping-tools) 
 🌞 [Off-Grid Living Kits](/recommended-tools#off-grid-living-essentials) 
 📚 [Energy Education Books](/recommended-tools#books--knowledge-resources) 
