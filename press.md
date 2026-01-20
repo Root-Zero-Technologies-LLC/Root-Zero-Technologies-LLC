@@ -43,6 +43,13 @@ Here are public-facing visual materials you can use to help spread the word:
 | ![](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) | Bloom Engine Comparison | [Open](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) |
 | ![](/assets/images/Bloom_Engines_in_Hurricanes.jpg) | Disaster Comparison Chart | [Open](/assets/images/Bloom_Engines_in_Hurricanes.jpg) |
 | ![](/assets/images/Bloom_Engine_Power_Units.png) | Power Units Breakdown | [Open](/assets/images/Bloom_Engine_Power_Units.png) |
+---
+
+System Type	Output Range	Description
+🔹 Modular Bloom Core	~7–10 kWh/day	Single unit core — scalable
+🔹 Residential Bloom Zero	~30–40 kWh/day	Full deployment (3–5 core bundles)
+
+---
 | ![](/assets/images/Bloom_Residential_Configuration_Overflow.png) | Residential Configuration Overview | [Open](/assets/images/Bloom_Residential_Configuration_Overflow.png) |
 | ![](/assets/images/Root_ZEro_Technologies_LLC_Banner.png) | Root Zero Banner | [Open](/assets/images/Root_ZEro_Technologies_LLC_Banner.png) |
 | ![](/assets/images/Root_Zero_Bloom_Engine_Logo.png) | Logo with Bloom Core | [Open](/assets/images/Root_Zero_Bloom_Engine_Logo.png) |
