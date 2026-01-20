@@ -6,32 +6,32 @@ subtitle: Clean Energy Without Compromise
 
 
 <section class="intro">
-<h1>Welcome to Root Zero Technologies LLC</h1>
-<p>
-We develop revolutionary no-fuel energy engines designed to function without gas, combustion, lithium, or solar panels. These systems are fully blueprint-ready, provisionally patented, and built for resilience, decentralization, and global energy independence.
-</p>
+  <h1>Welcome to Root Zero Technologies LLC</h1>
+  <p>
+    We develop revolutionary no-fuel energy engines designed to function without gas, combustion, lithium, or solar panels. These systems are fully blueprint-ready, provisionally patented, and built for resilience, decentralization, and global energy independence.
+  </p>
 </section>
 
-
-<section class="call-to-action">
-<h2>Support the Launch</h2>
-<p>
-We are seeking ethical collaborators, engineers, and supporters to bring this world-shifting invention to life.
-<br>
-<a href="https://www.gofundme.com/u/root-zero-technologies" target="_blank">Visit Our GoFundMe</a>
-</p>
+<section class="donation-callout" style="border: 2px solid #ccc; padding: 1em; background-color: #f5f5f5; border-radius: 8px; margin: 1.5em 0;">
+  <h2>💸 Help Launch the Bloom Engine</h2>
+  <p>
+    Our prototype is ready. We need your support to build, test, and deploy the first off-grid Bloom Energy Engines.  
+    <br><br>
+    👉 <a href="https://www.gofundme.com/f/root-zero-technologies" target="_blank" style="font-weight: bold; color: #116611;">Donate via GoFundMe</a>  
+    <br>
+    Every contribution helps us move closer to global clean energy independence.
+  </p>
 </section>
-
 
 <section class="tech-preview">
-<h2>Technology Preview</h2>
-<ul>
-<li>No Fuel, No Emissions</li>
-<li>Operates Without Lithium or Combustion</li>
-<li>Silent, Scalable, Resilient</li>
-<li>Build-Ready: Under $3,000 Parts Cost</li>
-<li>Patents Filed, Engine Blueprints Complete</li>
-</ul>
+  <h2>Technology Preview</h2>
+  <ul>
+    <li>No Fuel, No Emissions</li>
+    <li>Operates Without Lithium or Combustion</li>
+    <li>Silent, Scalable, Resilient</li>
+    <li>Build-Ready: Under $3,000 Parts Cost</li>
+    <li>Patents Filed, Engine Blueprints Complete</li>
+  </ul>
 </section>
 
 
