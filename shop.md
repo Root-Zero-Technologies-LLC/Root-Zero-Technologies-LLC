@@ -16,10 +16,10 @@ Welcome! These recommended products work well for prototyping, off-grid experime
 
 ---
 
+| ![](/assets/images/Products_1.png) | Prototyping & Tools Graphic | [Open](/assets/images/Products_1.png) |
+
 ### 🛠️ Engineering Tools
 Fine-tune experimental circuits, diagnostics, and precision workbenches.
-
-![Engineering Tools Banner](/images/Banner_1_Shop.png)
 
 → **Explore** the full collection on the [Tools for Engineering page](/tools-for-engineers)
 
@@ -28,15 +28,11 @@ Fine-tune experimental circuits, diagnostics, and precision workbenches.
 ### 🔆 Off-Grid Survival Gear
 Emergency power, resilient backup, and off-grid living systems.
 
-![Off-Grid Gear Banner](/images/Banner_2_OffGrid.png)
-
 → **Explore** the complete selection on the [Off-Grid Essentials page](/offgrid-survival)
 
 ---
 
 ### 📚 Energy Education Books
 Books to go from electronics basics to building renewable systems.
-
-![Energy Books Banner](/images/Banner_3_Energy.png)
 
 → **Dive into** energy knowledge on the [Energy Books collection](/energy-books)
