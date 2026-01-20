@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Shop
 description: Recommended prototyping tools, off-grid emergency kits, and energy education books curated by Root Zero Technologies, available via affiliate links through Amazon.
 permalink: /shop/
