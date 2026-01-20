@@ -8,9 +8,9 @@ permalink: /contact/
 
 We are actively seeking:
 
-- 🔧 Engineers and prototyping labs
-- 🌱 Ethical backers and vision-aligned funders
-- 📣 Journalists, writers, and open-source advocates
+- 🔧 Engineers and prototyping labs  
+- 🌱 Ethical backers and vision-aligned funders  
+- 📣 Journalists, writers, and open-source advocates  
 
 ---
 
@@ -18,7 +18,7 @@ We are actively seeking:
 
 For now, all secure inquiries are routed through our GoFundMe campaign page.
 
-[🔗 Contact via GoFundMe](https://www.gofundme.com/u/root-zero-technologies)
+🔗 [Contact via GoFundMe](https://www.gofundme.com/u/root-zero-technologies)
 
 Please include your **email address**, **reason for interest**, and any **affiliation** (if applicable).
 
