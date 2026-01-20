@@ -11,7 +11,7 @@ Root Zero Technologies is launching a prototype of the zero-fuel Bloom Energy En
 
 If you believe in clean power, resilient infrastructure, and ethical innovation, you can help us bring this to life.
 
-👉 [Donate on GoFundMe](https://www.gofundme.com/f/root-zero-technologies)
+👉 [Donate on GoFundMe](https://gofund.me/4f7c26072)
 
 All contributions go toward:  
 ✅ Prototyping costs  
