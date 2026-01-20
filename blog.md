@@ -16,9 +16,9 @@ After months of preparation, Root Zero Technologies LLC is now live with its pub
 
 We are now focused on:
 
-- Attracting prototyping engineers
-- Distributing grant applications
-- Expanding visibility through curated press channels
+- Attracting prototyping engineers  
+- Distributing grant applications  
+- Expanding visibility through curated press channels  
 - Hosting public documentation for builders and partners
 
 Read the full launch press release [here](https://www.prlog.org/13122246-root-zero-technologies-launches-no-fuel-bloom-engine-patent-filed-clean-energy-system-seeks-builders-backers.html).
@@ -26,9 +26,6 @@ Read the full launch press release [here](https://www.prlog.org/13122246-root-ze
 ---
 
 > 💡 Want to help spread the word? Share our GoFundMe page or link back to this site: [root-zero-technologies.com](https://root-zero-technologies.com)
-
-More posts coming soon.
-This file goes in a folder named blog. GitHub will treat this as a page at /blog/.
 
 ---
 
