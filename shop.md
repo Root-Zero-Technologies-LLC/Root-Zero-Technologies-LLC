@@ -15,8 +15,7 @@ Welcome! These recommended products work well for prototyping, off-grid experime
 *Affiliate Disclosure:* As an Amazon Associate we earn from *qualifying* purchases.
 
 ---
-
-| ![](/assets/images/Products_1.png) | Prototyping & Tools Graphic | [Open](/assets/images/Products_1.png) |
+| ![](/assets/images/Products_1.png)
 
 ### 🛠️ Engineering Tools
 Fine-tune experimental circuits, diagnostics, and precision workbenches.
