@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tools for Engineers & Builders
 permalink: /tools-for-engineers/
 description: Curated engineering tools recommended by Root Zero Technologies for prototyping, off-grid systems, and resilient design.
