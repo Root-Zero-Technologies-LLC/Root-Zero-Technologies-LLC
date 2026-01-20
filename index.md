@@ -32,8 +32,32 @@ We develop revolutionary no-fuel energy engines designed to function without gas
   </ul>
 </section>
 
-| ![](/assets/images/Business_Card_Adam_Root_Zero_Technologies_LLC%20(1).png)
-| ![](/assets/images/Root-Zero-Technologies-Presentation.png/image4.png)
+<section class="engineers-call">
+<h2>🔧 Calling All Engineers</h2>
+<p>
+Root Zero Technologies invites engineers, prototypers, and hands-on builders to help launch the world’s first post-scarcity energy engine. Full blueprints are ready. You bring tools, skills, and spirit.
+</p>
+<p>
+🔍 See the <a href="/engineering">Engineering Packet</a> • 💬 <a href="/contact">Message Us</a>
+</p>
+</section>
+
+### Featured Tools & Kits
+
+Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
+
+### Featured Tools & Kits
+
+Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
+
+🔧 [Prototyping Tools](/recommended-tools#essential-prototyping-tools) 
+🌞 [Off-Grid Living Kits](/recommended-tools#off-grid-living-essentials) 
+📚 [Energy Education Books](/recommended-tools#books--knowledge-resources) 
+
+🧭 [Explore All Recommended Tools](/recommended-tools)
+
+ ![](/assets/images/Business_Card_Adam_Root_Zero_Technologies_LLC%20(1).png)
+ ![](/assets/images/Root-Zero-Technologies-Presentation.png/image4.png)
 
 <section class="engine-clarification">
 <h2>Clarifying Output: Bloom Engine Types</h2>
@@ -44,18 +68,6 @@ There are multiple engine classes within the Bloom family, each tuned for differ
 Earlier internal documents referenced smaller modular cores producing <strong>7–10 kWh/day</strong> individually. These modules form the scalable basis of the full residential system. All public-facing materials reflect the <em>complete deployment bundle</em> as a unit — this distinction will be further detailed in the technical pages and blog section. Bloom engines exponentially scale in individual power generation per bloom engine linked together in grid-formations, which can be opt in.
 </p>
 </section>
-
-<section class="featured-tools">
-<h2>Featured Tools & Kits</h2>
-<p>Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.</p>
-<ul>
-<li><a href="/recommended-tools#essential-prototyping-tools">🔧 Prototyping Tools</a></li>
-<li><a href="/recommended-tools#off-grid-living-essentials">🌞 Off-Grid Living Kits</a></li>
-<li><a href="/recommended-tools#books--knowledge-resources">📚 Energy Education Books</a></li>
-</ul>
-<p><a href="/recommended-tools" class="button">Explore Recommended Tools</a></p>
-</section>
-
 
 <section class="navigation">
 <h2>Explore</h2>
