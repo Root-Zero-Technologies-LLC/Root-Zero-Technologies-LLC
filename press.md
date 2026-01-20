@@ -41,7 +41,6 @@ Here are public-facing visual materials you can use to help spread the word:
 | Preview | Description | Link |
 |--------|-------------|------|
 | ![](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) | Bloom Engine Comparison | [Open](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) |
-| ![](/assets/images/Bloom_Cascade__Grid_Topologies.png) | Grid Topology Chart | [Open](/assets/images/Bloom_Cascade__Grid_Topologies.png) |
 | ![](/assets/images/Bloom_Engine_Power_Units.png) | Power Units Breakdown | [Open](/assets/images/Bloom_Engine_Power_Units.png) |
 | ![](/assets/images/Bloom_Engines_in_Hurricanes.jpg) | Disaster Comparison Chart | [Open](/assets/images/Bloom_Engines_in_Hurricanes.jpg) |
 | ![](/assets/images/Bloom_Residential_Configuration_Overflow.png) | Residential Configuration Overview | [Open](/assets/images/Bloom_Residential_Configuration_Overflow.png) |
