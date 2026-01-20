@@ -6,20 +6,18 @@ subtitle: Clean Energy Without Compromise
 
 
 <section class="intro">
-  <h1>Welcome to Root Zero Technologies LLC</h1>
-  <p>
-    We develop revolutionary no-fuel energy engines designed to function without gas, combustion, lithium, or solar panels. These systems are fully blueprint-ready, provisionally patented, and built for resilience, decentralization, and global energy independence.
-  </p>
+<h1>Welcome to Root Zero Technologies LLC</h1>
+<p>
+We develop revolutionary no-fuel energy engines designed to function without gas, combustion, lithium, or solar panels. These systems are fully blueprint-ready, provisionally patented, and built for resilience, decentralization, and global energy independence.
+</p>
 </section>
 
-<section class="donation-callout" style="border: 2px solid #ccc; padding: 1em; background-color: #f5f5f5; border-radius: 8px; margin: 1.5em 0;">
-  <h2>💸 Help Launch the Bloom Engine</h2>
+<section class="support-callout" style="margin-top: 1.5em; padding: 1em; background-color: #fdf8e4; border-left: 6px solid #ffce00; border-radius: 6px;">
+  <h2 style="margin-top: 0;">💸 Support Our Prototype Launch</h2>
   <p>
-    Our prototype is ready. We need your support to build, test, and deploy the first off-grid Bloom Energy Engines.  
+    Root Zero is building the world’s first post-scarcity energy engine — and you can help it rise.
     <br><br>
-    👉 <a href="https://www.gofundme.com/f/root-zero-technologies" target="_blank" style="font-weight: bold; color: #116611;">Donate via GoFundMe</a>  
-    <br>
-    Every contribution helps us move closer to global clean energy independence.
+    👉 <a href="/donate" style="font-weight: bold; color: #2d6a4f;">Donate here to help fund the Bloom Engine build</a>
   </p>
 </section>
 
