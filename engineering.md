@@ -143,4 +143,7 @@ Together, we can build the future now — without waiting for permission.
   </p>
 </section>
 
+For blueprints or collaboration requests, contact us here
+ or download the engineer packet
+
 ---
