@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Media & Press
 permalink: /press/
 description: Media materials, graphics, and documents related to the Bloom Engine launch.
