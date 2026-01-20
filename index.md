@@ -32,24 +32,18 @@ We develop revolutionary no-fuel energy engines designed to function without gas
   </ul>
 </section>
 
-| ![](/assets/images/Business_Card_Adam_Root_Zero_Technologies_LLC%20(1).png) | Digital Business Card | [Open](/assets/images/Business_Card_Adam_Root_Zero_Technologies_LLC%20(1).png) |
-| ![](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) | Bloom Engine Comparison | [Open](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) |
-| ![](/assets/images/Bloom_Engines_in_Hurricanes.jpg) | Disaster Comparison Chart | [Open](/assets/images/Bloom_Engines_in_Hurricanes.jpg) |
-| ![](/assets/images/Bloom_Engine_Power_Units.png) | Power Units Breakdown | [Open](/assets/images/Bloom_Engine_Power_Units.png) |
-| ![](/assets/images/Bloom_Residential_Configuration_Overflow.png) | Residential Configuration Overview | [Open](/assets/images/Bloom_Residential_Configuration_Overflow.png) |
-| ![](/assets/images/Root_ZEro_Technologies_LLC_Banner.png) | Root Zero Banner | [Open](/assets/images/Root_ZEro_Technologies_LLC_Banner.png) |
-| ![](/assets/images/Root_Zero_Bloom_Engine_Logo.png) | Logo with Bloom Core | [Open](/assets/images/Root_Zero_Bloom_Engine_Logo.png) |
+| ![](/assets/images/Business_Card_Adam_Root_Zero_Technologies_LLC%20(1).png)
+| ![](/assets/images/Root-Zero-Technologies-Presentation.png/image4.png)
 
 <section class="engine-clarification">
 <h2>Clarifying Output: Bloom Engine Types</h2>
 <p>
-There are multiple engine classes within the Bloom family, each tuned for different use cases. The engine featured in our public launch is the <strong>Residential Bloom Zero</strong>, designed to produce approximately <strong>30–40 kWh/day</strong>, sufficient for full home energy independence in most standard U.S. households. This estimate refers to a <em>single residential deployment</em>, which may include multiple interconnected Bloom cores depending on the installation.
+There are multiple engine classes within the Bloom family, each tuned for different use cases. The engine featured in our public launch is the <strong>Residential Bloom Zero</strong>, designed to produce approximately <strong>30–40 kWh/day</strong>, sufficient for full home energy independence in most standard U.S. households. This estimate refers to a <em>single residential deployment</em>, which may include multiple interconnected Bloom cores depending on the installation. Residential models are larger than micro-models.
 </p>
 <p>
-Earlier internal documents referenced smaller modular cores producing <strong>7–10 kWh/day</strong> individually. These modules form the scalable basis of the full residential system. All public-facing materials reflect the <em>complete deployment bundle</em> as a unit — this distinction will be further detailed in the technical pages and blog section.
+Earlier internal documents referenced smaller modular cores producing <strong>7–10 kWh/day</strong> individually. These modules form the scalable basis of the full residential system. All public-facing materials reflect the <em>complete deployment bundle</em> as a unit — this distinction will be further detailed in the technical pages and blog section. Bloom engines exponentially scale in individual power generation per bloom engine linked together in grid-formations, which can be opt in.
 </p>
 </section>
-
 
 <section class="featured-tools">
 <h2>Featured Tools & Kits</h2>
