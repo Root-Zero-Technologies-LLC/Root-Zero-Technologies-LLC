@@ -62,4 +62,12 @@ Hands-on learning for builders
 
 ---
 
+### 🔎 Browse More Tools:
+
+- [Prototyping Gear](/tools-for-engineers)
+- [Off-Grid Resilience Kits](/offgrid-survival)
+- [Engineering Books](/energy-books)
+
+---
+
 *Affiliate disclosure: As an Amazon Associate we earn from qualifying purchases.*
