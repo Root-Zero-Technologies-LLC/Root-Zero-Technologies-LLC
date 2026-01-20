@@ -75,7 +75,13 @@ Earlier internal documents referenced smaller modular cores producing <strong>7�
 </ul>
 </section>
 
-
 <footer>
 <p>&copy; 2026 Root Zero Technologies LLC | Webster, Texas</p>
 </footer>
+
+<section class="final-cta" style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #ddd;">
+  <p style="text-align: center; font-weight: bold;">
+    🌱 Ready to help prototype the future of energy?<br>
+    <a href="/donate">Donate Now</a> • <a href="/shop">Shop Essentials</a> • <a href="/contact">Contact Us</a>
+  </p>
+</section>
