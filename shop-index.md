@@ -1,4 +1,8 @@
 ---
+published: false
+---
+
+---
 layout: page
 title: Root Zero Shop Index
 permalink: /shop-index/
