@@ -18,7 +18,7 @@ Each link helps fund our mission without additional cost to you.
 
 ---
 
-## 🧰 Essential Prototyping Tools
+## 🧰 <a id="essential-prototyping-tools"></a>Essential Prototyping Tools
 
 | Product | Use Case | Link |
 |--------|----------|------|
@@ -29,7 +29,7 @@ Each link helps fund our mission without additional cost to you.
 
 ---
 
-## 🔋 Off-Grid Living Essentials
+## 🔋 <a id="off-grid-living-essentials"></a>Off-Grid Living Essentials
 
 | Product | Use Case | Link |
 |--------|----------|------|
@@ -40,7 +40,7 @@ Each link helps fund our mission without additional cost to you.
 
 ---
 
-## 📚 Books + Knowledge Resources
+## 📚 <a id="books--knowledge-resources"></a>Books + Knowledge Resources
 
 | Title | Description | Link |
 |-------|-------------|------|
