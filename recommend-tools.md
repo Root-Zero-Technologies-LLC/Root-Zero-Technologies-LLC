@@ -1,12 +1,12 @@
-> **Affiliate Disclosure:**  
-> We may earn a commission from qualifying purchases through the affiliate links below at **no extra cost to you.** Thank you for supporting Root Zero Technologies!
-
 ---
-layout: page
+layout: default
 title: Recommended Tools & Gear
 permalink: /recommended-tools/
 description: Discover tools and products that align with Root Zero Technologies' mission—fuel-free innovation, off-grid resilience, and decentralized prototyping.
 ---
+
+> **Affiliate Disclosure:**  
+> We may earn a commission from qualifying purchases through the affiliate links below at **no extra cost to you.** Thank you for supporting Root Zero Technologies!
 
 # 🌟 Recommended Tools for Engineers & Off-Grid Innovators
 
