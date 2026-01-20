@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Recommended Gear Index
 permalink: /gear/
 description: Master gear index for engineers, resilience builders, and field innovators. Curated by Root Zero Technologies for off-grid success.
