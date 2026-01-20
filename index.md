@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Root Zero Technologies
+title: Root Zero Technologies LLC
 subtitle: Clean Energy Without Compromise
 ---
 
