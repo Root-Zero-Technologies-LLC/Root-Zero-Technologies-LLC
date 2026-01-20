@@ -40,8 +40,6 @@ Here are public-facing visual materials you can use to help spread the word:
 
 | Preview | Description | Link |
 |--------|-------------|------|
-| ![](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_1.jpeg) | Press Image 1 | [Open](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_1.jpeg) |
-| ![](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_2.jpeg) | Press Image 2 | [Open](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_2.jpeg) |
 | ![](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_3.jpeg) | Press Image 3 | [Open](/assets/images/Root_Zero_Technologies_LLC_webpage_advert_3.jpeg) |
 | ![](/assets/images/Bloom_Cascade__Grid_Topologies.png) | Grid Topology Chart | [Open](/assets/images/Bloom_Cascade__Grid_Topologies.png) |
 | ![](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) | Bloom Engine Comparison | [Open](/assets/images/Bloom_Engine_Core_Replacing_Grid_1.png) |
