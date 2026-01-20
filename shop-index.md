@@ -3,7 +3,7 @@ published: false
 ---
 
 ---
-layout: page
+layout: default
 title: Root Zero Shop Index
 permalink: /shop-index/
 description: Root Zero Technologies' main storefront hub for clean energy tools, off-grid kits, and field-tested educational materials.
