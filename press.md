@@ -7,9 +7,6 @@ description: Media materials, graphics, and documents related to the Bloom Engin
 
 # 📣 Press Materials
 
-### 🔹 Launch PDF  
-[Download: Bloom_Engines_for_Residences.pdf](/assets/pdfs/Bloom_Engines_for_Residences.pdf)
-
 ### 🔹 Web Ad Graphics  
 Visuals to share and repost:
 
