@@ -16,11 +16,11 @@ These titles align with our values: clean tech, field prototyping, and post-scar
 
 ### 🧠 Knowledge & Reference
 
-**The Art of Electronics**  
+#### **The Art of Electronics**  
 Gold standard in circuit and systems design  
 [Buy on Amazon](https://www.amazon.com/dp/0521809266?tag=rootzerotechnologies)
 
-**Make: Electronics**  
+#### **Make: Electronics**  
 A highly accessible builder’s intro to electronics  
 [Buy on Amazon](https://www.amazon.com/dp/1680450263?tag=rootzerotechnologies)
 
@@ -28,11 +28,11 @@ A highly accessible builder’s intro to electronics
 
 ### 🌱 Resilience & Systems Thinking
 
-**Off-Grid Living: Tools & Mindset**  
+#### **Off-Grid Living: Tools & Mindset**  
 Step-by-step overview of essential systems  
 [Buy on Amazon](https://www.amazon.com/dp/0762786462?tag=rootzerotechnologies)
 
-**Clean Energy Projects**  
+#### **Clean Energy Projects**  
 Buildable energy projects that align with our mission  
 [Buy on Amazon](https://www.amazon.com/dp/161212514X?tag=rootzerotechnologies)
 
@@ -42,5 +42,5 @@ More books will be added over time as the Root Zero Library expands.
 
 ---
 
-*Affiliate disclosure: As an Amazon Associate we earn from qualifying purchases.*  
-Thank you for helping power the decentralized future.
+> **Affiliate Disclosure:**  
+> As an Amazon Associate, we earn from qualifying purchases made through links on this page — at no additional cost to you. Thank you for supporting Root Zero Technologies and helping power the decentralized future.
