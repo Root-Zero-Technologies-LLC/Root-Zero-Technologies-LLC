@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 title: Root Zero Technologies
-subtitle: Clean Energy Without Compromise
+permalink: /
 ---
 
 
