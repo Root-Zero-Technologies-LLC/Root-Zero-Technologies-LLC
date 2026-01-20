@@ -33,7 +33,7 @@ We develop revolutionary no-fuel energy engines designed to function without gas
 </section>
 
 <section class="engineers-call">
-🔧 Calling All Engineers
+🔧 <h2>Calling All Engineers</h2>
 <p>
 Root Zero Technologies invites engineers, prototypers, and hands-on builders to help launch the world’s first post-scarcity energy engine. Full blueprints are ready. You bring tools, skills, and spirit.
 </p>
@@ -42,7 +42,7 @@ Root Zero Technologies invites engineers, prototypers, and hands-on builders to 
 </p>
 </section>
 
-### Featured Tools & Kits
+### <h2>Featured Tools & Kits</h2>
 
 Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
 
