@@ -42,7 +42,7 @@ Root Zero Technologies invites engineers, prototypers, and hands-on builders to 
 </p>
 </section>
 
-### <h2>Featured Tools & Kits</h2>
+### Featured Tools & Kits
 
 Explore trusted gear that aligns with our mission—engineered for innovators, off-grid builders, and clean energy pioneers.
 
