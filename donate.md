@@ -19,4 +19,6 @@ All contributions go toward:
 ✅ Engineer recruitment  
 ✅ Emergency survival support  
 
+We are deeply grateful for every dollar, every signal boost, and every kind word.
+Thank you for believing in this dream — and in the future we can build together.
 *Thank you for believing in us.*
