@@ -20,7 +20,7 @@ We develop revolutionary no-fuel energy engines designed to function without gas
     👉 <a href="/donate" style="font-weight: bold; color: #2d6a4f;">Donate here to help fund the Bloom Engine build</a>
   </p>
 </section>
-
+<div style="margin-bottom: 1.5rem;"></div>
 <section class="tech-preview">
   <h2>Technology Preview</h2>
   <ul>
