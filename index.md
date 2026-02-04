@@ -75,6 +75,17 @@ Earlier internal documents referenced smaller modular cores producing <strong>7�
 </ul>
 </section>
 
+<section class="affiliate-support" style="margin-top: 2em;">
+  <h2>🧰 Support Through Tools We Use</h2>
+  <p>You can help us by purchasing through the links below — at no extra cost to you. These are actual tools we use in development:</p>
+  <ul>
+    <li><a href="https://www.amazon.com/dp/B00N1PJ1D8?tag=rootzerotechn-20" target="_blank">Rigol DS1054Z Digital Oscilloscope</a></li>
+    <li><a href="https://www.amazon.com/dp/B00ANZRT4M?tag=rootzerotechn-20" target="_blank">Hakko FX888D Soldering Station</a></li>
+    <li><a href="https://www.amazon.com/dp/B07NQG2ZTN?tag=rootzerotechn-20" target="_blank">WEN 56380i Solar Lighting Kit</a></li>
+  </ul>
+  <p>🔗 <a href="/recommended-tools">View all recommended gear</a></p>
+</section>
+
 <footer>
 <p>&copy; 2026 Root Zero Technologies LLC | Webster, Texas</p>
 </footer>
